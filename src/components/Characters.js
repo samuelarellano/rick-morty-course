@@ -32,7 +32,7 @@ export default function Characters(props) {
                       </p>
                       <p>
                       <span className='text-grey'>Especie: </span>
-                          <span>{character.especies}</span>
+                          <span>{character.species}</span>
                       </p>
                   </div>
               </div>
